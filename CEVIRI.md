@@ -227,3 +227,160 @@ Bazı yerlerdeki alternatif düşüncelerin "sanal" bir Gençlik Hukuku Evi'ni h
 Kısa vadeli ve herhangi bir mali veya organizasyonel çaba gerektirmeksizin hayata geçirilebilir olması cazip görünmektedir. Ancak "sanal" olmak, birlikte çalışmanın - zaten birçok yerde alışılageldiği gibi - tamamen elektronik ve telefon düzeyine kaydırılması anlamına gelir.
 Fakat bu durum, bir yandan gençler için bireysel kurumların irtibat kişileriyle "yüz yüze" (face to face) kurulacak olan o önemli kişisel temasın yaşanamamasına yol açarken, diğer yandan kurumlar arasında "kapı kapıya" ve "elden ele" giden kısa yolların eksik kalmasına neden olur.
 Bu durum, "gerçek" bir Gençlik Hukuku Evi'nin özel iddialarına ve gereksinimlerine karşılık vermemektedir.
+
+
+----
+
+
+
+## Sayfa 21 Çevirisi
+Genç birey halen gelişim çağındadır; uygulanan tedbirler ancak tam olarak uygun olduğunda işe yarar. Otomatik işleyen mekanizmalardan kaçınılmalıdır.
+
+JGG (Alman Gençlik Mahkemeleri Kanunu), çok çeşitli reaksiyon seçenekleri sunmaktadır. Bunlar birbiriyle kombine edilebilir ve illa da kademeli bir oran içinde olmak zorunda değildir. Bu sayede yaptırımların birikerek artması (tırmanması) önlenir ve kişiye/duruma tam uygunluk gözetilir.
+
+Örneğin, bir mahkeme duruşmasının tarihinin belirlenmesi; bir TOA'nın (Fail-Mağdur Uzlaşması) veya bir Şiddet Karşıtı Eğitimin sonucunu beklemeye olanak tanır.
+
+Bunu şüpheli de bilir. Kendisinin unutulmadığını, adeta gözetim altında olduğunu bilir. Kendisini nelerin beklediğinin ve bizzat neler yapabileceğinin farkındadır. Genç insanın o anki yaşam durumuna göre tamamen ona özel bireysel bir çözüm/ölçü (Maßanzug) oluşturulabilir.
+
+Gençlik Hukuku Evi'nde "yüz yüze" (face to face) çalışılır. Dolayısıyla kişi ve onun yaşam durumu hakkındaki bilgiler yalnızca yazılı belgelere dayanmaz/bunlarla sınırlı kalmaz.
+
+Şüpheli; kendi polis memurunu, kendi gençlik savcısını, kendi sosyal hizmet uzmanını ve kendi hakimini tanır, aynı şekilde onlar da şüpheliyi tanır. Yaşadığı yerde, kendi çevresinde, olay yerinde (vor Ort) soruşturma yürütülür, iddianame hazırlanır, yardım sağlanır ve dava görülür.
+
+**Öğrenci, öğretmeninin saçını ateşe verdi.**
+Yetkili gençlik hakimi, Stuttgart-Bad Cannstatt Sulh Mahkemesi'ne giderken yolda gazetede bu saygısızca eylemi okumuş ve dehşete düşmüştü:
+
+"Aynı sabah Gençlik Hukuku Evi'nden masama aynı olayı konu alan bir iddianame geldiğinde, bu tür olayların görünüşe göre okullarda tekrarlandığını düşünerek bir kez daha dehşete düştüm.
+Kısa süre sonra, her ikisinin de aynı olay olduğu ortaya çıktı. Okulla sağlanan mutabakatın ardından polis, faili derhal Gençlik Hukuku Evi'ne getirmişti. Orada daha aynı gün soruşturma yürütülebildi, fail savcılık tarafından dinlendi ve kendisi ve ebeveynleri ile gençlik mahkemesi yardımında bir görüşme gerçekleştirildi.
+Ertesi sabah iddianame Stuttgart-Bad Cannstatt Sulh Mahkemesi'ne sunuldu. Yasal sürelere riayet edilerek en kısa süre içinde ana duruşma gerçekleştirildi."
+
+"Ceza anında (hemen) gelmelidir, ancak her şeyden önce anında (hemen) başlamalıdır. Resmi kurumların çalışmalarının suçun işlendiği günden bir gün sonra başlaması, tüm yargılama sürecinin hızlı bir şekilde sonuçlandırılmasından daha önemlidir. Bazen kasıtlı olarak süreci geciktirmek daha iyi olabilir – örneğin genç faillerin mağdurlarından özür dilemesini sağlamak için."
+Dönemin Federal Adalet Bakanı Herta Däubler-Gmelin, 12.12.2000 tarihindeki Gençlik Hukuku Evi ziyaretinde.
+
+**Fail-Mağdur Uzlaşması.**
+TOA (Fail-Mağdur Uzlaşması) enstrümanı, Gençlik Hukuku Evi'ndeki yargılama sürecinde eşlik edici bir tedbir olarak özel bir öneme sahiptir. Uygun vakalarda, ceza yargılamasındaki polis ve gençlik yardımı tarafından teşvik edilir. Ayrıca, TOA'yı yargılama sürecine erken aşamada dahil etmek amacıyla, savcılık ile Fail-Mağdur Uzlaşma merkezi arasında düzenli vaka incelemeleri uygulaması başlatılmıştır.
+
+## Sayfa 22 Çevirisi
+Bir TOA kapsamında failin mağdurla karşılaşmasının iki önemli işlevi vardır:
+
+Bir yandan mağdura, olayın sonuçlarıyla daha iyi başa çıkabilme imkanı sunar ve mağdurun pasif rolünden sıyrılarak arabulucunun koruması altında faille yüzleşmesine, ona duygularını ve işlenen suçun sonuçlarını anlatmasına ve kendi belirlediği bir uzlaşmaya varmasına olanak tanır.
+
+Diğer yandan fail, işlediği suçla ve yol açtığı zararla yüzleşmek zorundadır.
+
+TOA failden sorumluluk üstlenmesini talep eder ve onu maddi de olabilen bir zararı telafi etme konusunda destekler.
+
+TOA, hem davanın düşürülmesi (kapatılması) için hem de mahkumiyetle sonuçlanan ağır suçlarda, ceza indirimi olanağıyla birlikte sürece eşlik eden bir tedbir olarak kullanılır.
+
+Cezai ehliyeti olmayanlarda da (Strafunmündige) çatışma çözümüne yönelik TOA benzeri bir tedbire ihtiyaç duyulduğu tespit edilmiştir.
+
+TOA'nın Gençlik Hukuku Evi'nde yoğun bir şekilde kullanılması ve bunun sonucunda ceza yargılamasındaki gençlik yardımının TOA birimindeki vaka sayılarının ciddi şekilde artması, Belediye Meclisi'nin TOA için ek bir personel kadrosunu onaylamasına yol açmıştır.
+
+"Gençlik Hukuku Evi'nde sadece faillere değil, aynı zamanda suç mağdurlarına da özel bir ilgi gösterilmektedir. Bunun istatistiksel kanıtı; Fail-Mağdur Uzlaşmasının gerçekleştirildiği dava sayılarındaki belirgin artışta görülebilir. Zira tam da bu yaptırım şekli, gence ve mağdura bireysel olarak yaklaşılmasına özel bir biçimde olanak tanımaktadır."
+İçişleri Bakanlığı, Adalet Bakanlığı ve Stuttgart Büyükşehir Belediyesi'nin 11.03.2003 tarihli ortak basın açıklaması.
+
+**Savunma.**
+Gençlik davalarında savunma avukatı, faille olan güven ilişkisi nedeniyle özel bir role sahiptir.
+
+O da süreç hakkında hızla bilgilendirilir ve yargılama sürecine dahil edilir.
+
+Avukatlar Derneği (Anwaltsverein) tarafından, Gençlik Hukuku Evi'nde, ceza yargılamasındaki gençlik yardımı nezdinde, Mart 2001'den Kasım 2003'e kadar haftalık ücretsiz bir hukuki danışmanlık hizmeti kurulmuştu.
+
+Bir savunma avukatının dahil olduğu hemen hemen tüm vakalarda, avukatla birlikte çalışmayı son derece faydalı buluyoruz. Savunma avukatı, müvekkilinin güvenine sahiptir. Gençlik mahkemesinin aldığı tedbirleri gence açıkladığında, genç failin bu kararları daha iyi benimsemesi umudu doğmaktadır.
+
+Tutuklama veya tutuklamayı önleme konularında da savunma avukatlarıyla yapılan işbirliğinde iyi tecrübeler edinilmiştir.
+
+**Şeffaflık.**
+Yeni yapılandırdığımız günlük işbirliğimizde önemli olan, kurumlar arasında sürekli bir geri bildirim ve dolayısıyla bir etkinlik kontrolünün sağlanmasıdır. Bunun için kullanılan araçlardan bazıları şunlardır:
+
+**Sabah toplantıları (Frühbesprechungen):** Polis, savcılık ve ceza yargılamasındaki gençlik yardımı arasında, özellikle güncel günlük olaylar ve mahkeme duruşmalarının sonuçları hakkında yapılır. Başlangıçta organizasyonel sorunlar nedeniyle haftada birkaç kez yapılırken, şimdi haftada bir kez yapılmaktadır.
+
+**Kurum içi toplantılar (Hauskonferenzen):** Genel işleyişlerin koordine edilmesi, geliştirilmesi ve sürekli olarak yeniden ayarlanıp uyarlanması içindir. Gençlik Hukuku Evi'ndeki dört kurumun tüm çalışanları buna katılır. Başlangıçta aylık olarak yapılıyordu, ancak yıllar içinde bu ihtiyaç azaldı. Şimdi iki ayda bir toplanıyoruz; başkanlık görevi her üç toplantıda bir dört kurum arasında dönüşümlü olarak el değiştiriyor.
+
+Bu buluşmalar, yeni yapılarla aidiyeti bugüne dek teşvik edip desteklemekte ve ilgili çalışma alanlarının şeffaflığına belirleyici bir katkı sağlamaktadır.
+
+## Sayfa 23 Çevirisi
+Ayrıca "ayaküstü konuşmalar" da sürekli bir bilgi alışverişi sağlar. Buradan genellikle davanın ileriki aşamaları için yeni itici güçler (Impulse) ortaya çıkar.
+
+İhtiyaç halinde polis, savcılık ve ceza yargılamasındaki gençlik yardımı arasında, gençlerin ve ebeveynlerinin de katılımıyla vaka konferansları düzenlenir. Davanın güncel durumu görüşülür, olası sonuçlar ve yardım seçenekleri gösterilir.
+
+Tüm ceza yargılaması süreci boyunca gençlere ve ebeveynlerine danışmanlık sağlanır.
+
+**Bilimsel Sonuç.**
+Yeni yapının ve çalışma yönteminin başarısı, bilimsel refakat raporuyla da belgelenmiştir. Bu analize göre, Gençlik Hukuku Evi'nde şunları başardık:
+■ Gençlerin hatalı davranışlarına verilen tepki sürelerini çok önemli ölçüde kısaltmak;
+■ Polisten savcılığın kararına kadar geçen dava sürelerini %51 oranında (105,1 takvim gününden 51,6 takvim gününe) ve ilk mahkeme kararına kadar geçen süreyi %54 oranında (229,9 takvim gününden 105 takvim gününe) azaltarak, süreyi yarıdan daha aza indirmek;
+■ Savcılık bünyesindeki işlem süreleri ortalama olarak %71 oranında azalarak 52,2 takvim gününden 15,3 takvim gününe düştü.
+
+Bilimsel refakat raporu şu sonuca varmıştır:
+"Model projenin bütünsel çalışma yaklaşımı doğrultusunda, aynı vakayla farklı bağlamlarda ilgilenen tüm paydaşları ilk kez tek bir masa etrafında toplamak başarılmıştır.
+Gençlik Hukuku Evi, kendi sosyal alanında standart bir kurum (Regeleinrichtung) haline gelmelidir."
+
+Politika bu tavsiyeye uydu:
+"Haziran 1999'da Stuttgart-Bad Cannstatt'ta başlatılan ve ülke çapında halen benzersiz olan bu model proje, kendini en iyi şekilde kanıtlamıştır ve devam ettirilecektir."
+İçişleri Bakanı, Adalet Bakanı ve Stuttgart Büyükşehir Belediye Başkanı'nın 11.03.2003 tarihli ortak basın açıklaması.
+
+**YARGILAMA SÜRESİ**
+
+**Savcılığın nihai kararına kadar geçen süre**
+Ortalama 51,6* Gün
+Polis
+Savcılık
+Gençlik Mahkemesi Yardımı
+
+**Ana duruşmaya kadar geçen süre**
+Ortalama 105** Gün
+Amtsgericht (Sulh Mahkemesi)
+
+Grafik Lejantı:
+1998 ile karşılaştırma:
+* 105,1 Gün
+** 229,9 Gün
+
+## Sayfa 24 Çevirisi
+**YARGILAMA SÜRECİ**
+
+**Suç Yeri İlkesi (Tatortprinzip)**
+21 YAŞ ALTI FAİLLER
+Suç Yeri / Karakol
+Suç Yeri / Savcılık
+İkametgah / Savcılık
+İkametgah / Gençlik Mahkemesi Yardımı
+İkametgah / Sulh Mahkemesi
+
+ZAMAN DİLİMİ
+
+**Gençlik Hukuku Evi**
+21 YAŞ ALTI FAİLLER
+Suç Yeri / Karakol
+İkametgah Polis
+İkametgah Savcılık
+İkametgah Gençlik Mahkemesi Yardımı
+İkametgah / Sulh Mahkemesi
+
+ZAMAN DİLİMİ
+
+Sürece refakat eden bilim insanı, Gençlik Hukuku Evi hakkındaki bir sunumunda şu sonuca varmıştır:
+"Genel olarak bakıldığında Gençlik Hukuku Evi, özellikle sürece dahil olan kurumların değişime ve yeniliğe olan iradelerini belgelemesi nedeniyle dikkate değer bir projedir.
+Resmi kurumlar, sadece hukuk politikası açısından reform ihtiyacını dile getirmekle yetinmeyip, daha sonra...
+
+## Sayfa 25 Çevirisi
+... beklemek yerine, kendi ellerindeki mevcut olanakları kararlı bir şekilde uygulamaya geçirmişlerdir.
+Genel olarak, özellikle Polis, Savcılık ve Gençlik Dairesi gibi kurumlar, kurum içi organizasyon alanında ne tür yenilik potansiyellerinin mevcut olduğunu kanıtlamışlardır.
+Bu proje yapısı; değişen uygulamanın ne "aşağıdan" (örneğin 20. yüzyılın 70'lerindeki yargılamadan saptırma hareketinde olduğu gibi) başlatılmış olması, ne de yasal değişiklikler yoluyla (örneğin 1990'daki 1. JGG Değişiklik Yasası'nda olduğu gibi) sağlanmasının amaçlanmış olması bakımından yenidir.
+Aksine proje, yereldeki yeniliğe açıklığı bir araya getirmek başarıldığında, "merkezden" yapılacak bir reformda hangi değişikliklerin mümkün olabileceğini göstermiştir.
+Yerel resmi kurumların cesaretine ve esnekliğine bir örnek olarak savcılık zikredilebilir.
+Dış birimlerin kurulması genel anlamda yeni bir prensip olmasa da, oldukça tartışmalı kabul edilmektedir; çünkü korkulara göre bu durum, kurumun genel yönetimini zorlaştıracaktır.
+Gençlik Hukuku Evi'nde sadece böyle bir dış birim kurulmakla kalınmamış, aynı zamanda - ki bu da alışılmadık bir durumdur - örneğin davaların düşürülmesi gibi durumlardaki olağan onaya sunma zorunluluklarından büyük ölçüde muaf tutulmuştur.
+Savcılık faaliyetlerinin bölgeselleştirilmesinin ancak bağımsızlığın güçlendirilmesiyle birleştiğinde etkili olabileceği anlaşılmıştır."
+
+**Yargılama Süreci, Suç Yeri İlkesi:**
+Failin 21 yaşın altında veya yetişkin olmasına bakılmaksızın, faile yönelik suç duyurusu suç yerinden sorumlu polis tarafından işleme alınır ve ancak ondan sonra suç yerinin savcılığına gönderilir.
+21 yaşından küçük faillerde, dosya oradan failin ikametgahından sorumlu savcılığa devredilir.
+Bu zaman kaybıyla birlikte, failin ikametgah savcılığı suçtan haberdar olur ve ancak şimdi tepki verebilir. Bir kararın verilmesi veya bir iddianamenin mahkemede görüşülebilmesi genellikle aylar sürer.
+**Sonuç:**
+Çalışmalar birbiri ardına, koordinasyonsuz ve büyük bir zaman kaybıyla yürütülür.
+
+**Gençlik Hukuku Evi'nde Yargılama Süreci, İkametgah İlkesi:**
+Bad Cannstatt ve Münster ilçelerindeki 21 yaşından küçük her faile yönelik suç duyurusu, suç yeri polisi tarafından derhal Gençlik Hukuku Evi'ndeki polise teslim edilir. Polis, Gençlik Hukuku Evi'ndeki ikametgah savcılığını derhal bilgilendirir ve soruşturmaya başlar.
+Savcılık, ceza yargılamasındaki gençlik yardımını bilgilendirir ve suç duyurusu polis tarafından henüz işleme alınırken, her ikisi de faile ve suça yönelik tepki verebilir.
+**Sonuç:**
+Çalışmalar eşzamanlı (paralel), koordineli ve olaya yakın zamanda yürütülür.
